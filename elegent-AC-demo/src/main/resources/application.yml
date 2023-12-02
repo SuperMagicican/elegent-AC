@@ -1,0 +1,12 @@
+elegent:
+  ac:
+    host: 127.0.0.1
+    port: 1883
+    clientId: testClient
+    username: admin
+    password: public
+    keepAliveInterval: 30
+    connectionTimeout: 60
+spring:
+  application:
+    name: acdemo

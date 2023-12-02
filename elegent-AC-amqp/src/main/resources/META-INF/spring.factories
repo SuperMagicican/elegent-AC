@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+   cn.elegent.ac.amqp.AmqpBeans,\
+   cn.elegent.ac.amqp.AmqpTemplate

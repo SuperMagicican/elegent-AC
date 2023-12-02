@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+   cn.elegent.ac.mqtt.config.MqttBeans,\
+   cn.elegent.ac.mqtt.config.ACConfig,\
+   cn.elegent.ac.mqtt.MqttCallback,\
+   cn.elegent.ac.mqtt.MqttTemplate,\
+   cn.elegent.ac.mqtt.ACKDefaultServiceImpl
